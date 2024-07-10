@@ -71,15 +71,15 @@ The intuition here is that environment-biased features facilitate spuriousness, 
   
 ## Data
 
-* Download data from: https://share.bitdefender.com/s/pBxRY5JPk6ro8N6 (Password:`p'Al0qmZK$9*`)
-    * The archive contains the following folders:
+* Download data from: https://console.cloud.google.com/storage/browser/bitdefender_ml_artifacts/stylist 
+    * It contains the following folders:
       * *splits* - dataset splits for DomainNet, fMoW, COCOShift_balanced, COCOShift75 and COCOShift95
       * *embeddings* - precomputed embeddings (CLIP and ResNet-18) for all sets
     * make sure to unzip the archive in the same folder as the code (or change *data_path* from configs.py)
 * Original datasets:
     * DomainNet https://ai.bu.edu/M3SDA/#dataset
     * fMoW https://github.com/fMoW/dataset
-    * COCOShift *images will be relased soon*
+    * COCOShift *images will be released soon*
   
 ## Usage
 
