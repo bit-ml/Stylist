@@ -1,10 +1,9 @@
 # Stylist
 
-- **Title**: *Stylist: Style-Driven Feature Ranking for Robust Novelty Detection*
+- **Title**: *Robust Novelty Detection through Style-Conscious Feature Ranking*
 - **Authors**: Stefan Smeu*, Elena Burceanu*, Emanuela Haller*, Andrei Liviu Nicolicioiu
 - **[ArXiv Preprint](https://arxiv.org/pdf/2310.03738.pdf)**
-
-A short version of the paper was accepted at **ICCVW 2023** - Workshop and Challenged for Out-of-Distribution Generalization in Computer Vision (ICCV 2023), under the title *Environment-biased Feature Ranking for Novelty Detection Robustness*
+- Accepted at **WACV 2025**
 
 ## Table of Contents
 
