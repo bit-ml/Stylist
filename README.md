@@ -89,9 +89,9 @@ Please cite this project as:
 
 ```
 @article{smeu2023stylist,
-  title={Stylist: Style-Driven Feature Ranking for Robust Novelty Detection},
+  title={Robust Novelty Detection through Style-Conscious Feature Ranking},
   author={Smeu, Stefan and Burceanu, Elena and Haller, Emanuela and Nicolicioiu, Andrei Liviu},
-  journal={arXiv preprint arXiv:2310.03738},
-  year={2023}
+  journal={WACV},
+  year={2025}
 }
 ```
